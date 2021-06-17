@@ -1,0 +1,23 @@
+{
+    "name": "I Bet You",
+    "website": "https://ibetyou.xyz/",
+    "source_code": "https://github.com/IBetYou/IBetYou",
+    "white_paper": "https://bit.ly/3sQKUyU",
+    "description": "IBetYou is a smarter way to place and track your bets. Keep ‘em all in one place, make sure no one bails out, and win money in your favorite cryptocurrency.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/ibetyouxyz",
+            "handle": "ibetyouxyz"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/IBYXYZ"
+        }
+    ],
+    "explorer": "https://etherscan.io/token/0x6a68de599e8e0b1856e322ce5bd11c5c3c79712b",
+    "symbol": "IBY",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active"
+}
