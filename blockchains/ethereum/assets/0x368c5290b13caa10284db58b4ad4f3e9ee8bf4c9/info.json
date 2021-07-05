@@ -4,25 +4,8 @@
   "type": "ERC20",
   "decimals": 18,
   "description": "kineko.io is the supporting DeFi protocol of the kineko.com betting platform and $KKO token.",
-  "socials": [
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/KinekoDefi",
-      "handle": "KinekoDefi"
-    },
-    {
-      "name": "Telegram",
-      "url": "https://t.me/KinekoDefi",
-      "handle": "KinekoDefi"
-    },
-    {
-      "name": "Medium",
-      "url": "https://kinekodefi.medium.com/",
-      "handle": "kinekodefi"
-    }
-  ],
   "website": "https://www.kineko.com",
-  "explorer": "https://etherscan.io/address/0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9 ",
+  "explorer": "https://etherscan.io/address/0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9",
   "status": "active",
   "id": "0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9"
 }
