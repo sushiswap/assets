@@ -1,0 +1,11 @@
+{
+    "name": "Varen",
+    "symbol": "VRN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Varen is a community-governed DeFi protocol building user-friendly products and services",
+    "website": "https://varen.finance",
+    "explorer": "https://etherscan.io/token/0x72377f31e30a405282b522d588aebbea202b4f23",
+    "status": "active",
+    "id": "0x72377f31e30a405282b522d588aebbea202b4f23"
+}
