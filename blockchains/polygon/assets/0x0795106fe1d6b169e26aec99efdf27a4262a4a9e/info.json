@@ -1,0 +1,12 @@
+{
+    "name": "Standard",
+    "symbol": "STND",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Standard(STND) is the governance token for Standard protocol, which is the multichain protocol",
+    "website": "https://standard.tech",
+    "explorer": "https://polygonscan.com/token/0x0795106fe1d6b169e26aec99efdf27a4262a4a9e",
+    "status": "active",
+    "id": "0x0795106fe1d6b169e26aec99efdf27a4262a4a9e"
+  }
+  
