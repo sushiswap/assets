@@ -1,0 +1,11 @@
+{
+    "name": "renDGB",
+    "symbol": "renDGB",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "-",
+    "website": "https://renproject.io/",
+    "explorer": "https://etherscan.io/token/0xe3cb486f3f5c639e98ccbaf57d95369375687f80",
+    "status": "active",
+    "id": "0xe3cb486f3f5c639e98ccbaf57d95369375687f80"
+}
