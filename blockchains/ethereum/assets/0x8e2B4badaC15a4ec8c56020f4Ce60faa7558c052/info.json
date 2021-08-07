@@ -1,11 +1,11 @@
 {
     "name": "Communifty",
-    "symbol": "CNFT",
-    "type": "ERC20",
-    "decimals": 18,
+    "website": "https://communifty.org",
     "description": "Communifty is a DEX protocol that lets people create, buy and sell non-fungible token memberships that provide access to DAO communities.",
-    "website": "https://communifty.org/",
     "explorer": "https://etherscan.io/token/0x8e2b4badac15a4ec8c56020f4ce60faa7558c052",
+    "type": "ERC20",
+    "symbol": "CNFT",
+    "decimals": 18,
     "status": "active",
     "id": "0x8e2b4badac15a4ec8c56020f4ce60faa7558c052"
 }
