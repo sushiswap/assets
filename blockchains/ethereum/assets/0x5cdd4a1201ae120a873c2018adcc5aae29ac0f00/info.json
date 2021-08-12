@@ -1,1 +1,11 @@
-
+{
+    "name": "Mi Coin",
+    "symbol": "MI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "A blockchain network based on machine intelligence. Blockchain can beneﬁt MI for data and model sharing, decentralized intelligence, and trusted decision-making.",
+    "website": "https://mi.network",
+    "explorer": "https://etherscan.io/token/0x5cdd4a1201ae120a873c2018adcc5aae29ac0f00",
+    "status": "active",
+    "id": "0x5cdd4a1201ae120a873c2018adcc5aae29ac0f00"
+}
