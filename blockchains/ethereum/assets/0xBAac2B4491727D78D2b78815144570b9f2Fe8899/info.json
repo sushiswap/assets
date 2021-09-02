@@ -1,0 +1,11 @@
+{
+    "name": "The Doge NFT",
+    "website": "https://doge.pleasr.org",
+    "description": "The most iconic meme in internet history, the original Doge, is now fractionalized and available for anyone to own. This is the original Doge NFT minted by Atsuko Sato, the owner of our favorite canine.",
+    "explorer": "https://etherscan.io/token/0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
+    "type": "ERC20",
+    "symbol": "DOG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899"
+}
