@@ -1,0 +1,11 @@
+{
+    "name": "Whales",
+    "symbol": "Whales",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://whalesfinance.com/",
+    "explorer": "https://arbiscan.io/token/0xE8D2342768AC7cC125CE3280C5004dDE099b6F25",
+    "status": "active",
+    "id": "0xE8D2342768AC7cC125CE3280C5004dDE099b6F25"
+}
