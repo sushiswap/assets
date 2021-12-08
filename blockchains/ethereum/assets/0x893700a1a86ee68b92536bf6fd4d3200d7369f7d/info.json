@@ -1,11 +1,11 @@
 {
-    "name": "ICONOMI",
-    "symbol": "ICN",
+    "name": "EMANATE",
+    "symbol": "EMT",
     "type": "ERC20",
     "decimals": 18,
     "description": "-",
     "website": "",
-    "explorer": "https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+    "explorer": "https://etherscan.io/address/0x893700a1a86ee68b92536bf6fd4d3200d7369f7d",
     "status": "active",
-    "id": "0x888666CA69E0f178DED6D75b5726Cee99A87D698"
+    "id": "0x893700a1a86ee68b92536bf6fd4d3200d7369f7d"
 }
