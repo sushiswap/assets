@@ -1,0 +1,11 @@
+{
+    "name": "OOKI",
+    "symbol": "OOKI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://ooki.com",
+    "explorer": "https://etherscan.io/token/0x0De05F6447ab4D22c8827449EE4bA2D5C288379B",
+    "status": "active",
+    "id": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B"
+}
