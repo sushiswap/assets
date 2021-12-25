@@ -1,0 +1,11 @@
+{
+    "name": "renFIL",
+    "symbol": "renFIL",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://renproject.io/",
+    "explorer": "https://etherscan.io/token/0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5",
+    "status": "active",
+    "id": "0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5"
+}
