@@ -1,0 +1,11 @@
+{
+    "name": "CANDLE",
+    "website": "https://candlelabs.org",
+    "description": "Candle - Decentralized Religion Within The Metaverse",
+    "explorer": "https://etherscan.io/token/0xbc138bd20c98186cc0342c8e380953af0cb48ba8",
+    "type": "ERC20",
+    "symbol": "CNDL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbc138bd20c98186cc0342c8e380953af0cb48ba8"
+}
