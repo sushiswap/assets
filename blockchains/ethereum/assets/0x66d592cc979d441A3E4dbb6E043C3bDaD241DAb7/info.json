@@ -1,0 +1,11 @@
+{
+    "name": "Zero Money",
+    "symbol": "ZERO",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "The first genuine zero-value currency in the world",
+    "website": "https://thezero.money",
+    "explorer": "https://etherscan.io/address/0x66d592cc979d441a3e4dbb6e043c3bdad241dab7",
+    "status": "active",
+    "id": "0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7"
+}
