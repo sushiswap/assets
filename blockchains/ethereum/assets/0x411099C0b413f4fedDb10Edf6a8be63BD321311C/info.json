@@ -1,0 +1,11 @@
+{
+    "name": "Hello Token",
+    "symbol": "HELLO",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x411099C0b413f4fedDb10Edf6a8be63BD321311C",
+    "status": "active",
+    "id": "0x411099C0b413f4fedDb10Edf6a8be63BD321311C"
+}
